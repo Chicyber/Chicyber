@@ -17,7 +17,7 @@
                         - Python for automation & security  
                          - Ethical hacking techniques 
 - 📫 How to reach me: ...(LINKEDIN) www.linkedin.com/in/chiamaka-solomon-273b85258
-                          (GMAIL)  Chiamakasolomon*5@gmail.com
+                          (GMAIL)  Chiamakasolomon85@gmail.com
 - 😄 Pronouns: ... She/ Her
 - ⚡ Fun fact: ...  I love solving cybersecurity challenges, testing security vulnerabilities, and learning how to think like a hacker! 
 
